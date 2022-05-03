@@ -18,3 +18,7 @@ cd dwm/
 ```
 sudo make clean install
 ```
+# Requirements
+You need st for it to work, but you can go into config.h and change it to any other terminal if you want.
+
+Cheers.
